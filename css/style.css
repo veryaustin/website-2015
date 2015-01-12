@@ -1,0 +1,12 @@
+body{padding-top:100px;}
+
+.content-8 .btn.btn-clear{border: 2px solid #BB4732; color:#BB4732;}
+.content-8 .btn.btn-clear:hover{background-color:#BB4732;}
+
+.content-8 .btn.btn-clear:focus{background-color:#BB4732;}
+
+.footer-3{margin-top:100px; background-color:#BB4732;}
+
+.content-8 h3 {
+    color: #333333;
+  }
